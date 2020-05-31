@@ -32,6 +32,6 @@ end
 
 def sum_array(array)
   
-  num = array  
+  array.sum
   
 def
