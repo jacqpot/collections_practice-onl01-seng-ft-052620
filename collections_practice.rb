@@ -11,6 +11,6 @@ end
 
 def sort_array_char_count(array)
   
-  array.sort.index
+  array.sort
   
 end
