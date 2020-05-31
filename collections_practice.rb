@@ -18,5 +18,5 @@ end
 def swap_elements(array)
   
   
-  array.index[1]
+  array.index(1)
 end
