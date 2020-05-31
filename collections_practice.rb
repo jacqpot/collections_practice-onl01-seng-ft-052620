@@ -27,3 +27,4 @@ def kesha_maker(array)
   array.each {|word| word[2] = "$"}
   
 end
+
