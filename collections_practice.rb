@@ -14,3 +14,9 @@ def sort_array_char_count(array)
 array.sort! { |firstl, secondl| firstl.length <=> secondl.length }
   
 end
+
+def swap_elements(array)
+  
+  
+  
+end
