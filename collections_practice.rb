@@ -11,5 +11,6 @@ end
 
 def sort_array_char_count(array)
 
-  array.each do |char| c
+  array.sort { |word1, word2| word1 <=> word2}
+  
 end
