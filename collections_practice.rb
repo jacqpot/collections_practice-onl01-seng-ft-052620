@@ -10,7 +10,7 @@ end
 
 
 def sort_array_char_count(array)
-  
-  array.sort.size 
+  new_array = []
+  array.each do |characters| characters.size 
   
 end
