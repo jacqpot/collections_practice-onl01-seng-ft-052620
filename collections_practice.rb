@@ -18,6 +18,6 @@ end
 def swap_elements(array)
   
   
-  return array.index(1)
+  array
   
 end
