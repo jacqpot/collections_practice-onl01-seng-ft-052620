@@ -11,6 +11,6 @@ end
 
 def sort_array_char_count(array)
 
-  array.sort { |word1, word2| word1 <=> word2}
+  array.sort! { |word1, word2| word1 <=> word2}
   
 end
