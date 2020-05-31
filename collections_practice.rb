@@ -11,9 +11,7 @@ end
 
 def sort_array_char_count(array)
   
-
-
-
-                # { |word1.length, word2.length| word1 <=> word2} array.sort! 
+array.sort! do |firstl, second1| first1.length <=> second1.length
+end
   
 end
