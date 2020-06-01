@@ -32,6 +32,6 @@ end
 
 def sum_array(array)
   
-  array.reduce(:+)
+  array.inject(:+)
   
 end
