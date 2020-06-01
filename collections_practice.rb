@@ -36,6 +36,6 @@ end
 
 def add_s(array)
   
-  array.each {|word| word.join("s")}
+  array.each {|word| word.concat("s")}
   array
 end
