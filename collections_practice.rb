@@ -37,6 +37,6 @@ end
 def add_s(array)
   
   array.each {|word| word.concat("s")}
-  array[1].chop
+  array[1].chop!
   array
 end
